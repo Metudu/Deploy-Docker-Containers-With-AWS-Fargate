@@ -1,9 +1,0 @@
-[
-  {
-    "name": "TF-Nginx",
-    "image": "nginx",
-    "portMappings" : [{
-      "containerPort": 80
-    }]
-  }
-]
